@@ -1,16 +1,11 @@
 # Bem vindo(a) ao meu perfil!
 
-Olá, eu sou Bruno Strelow!
-
-## Hobbies
-
-- Futebol
-- Rugby
-- Jogar Videogame
+Olá, sou Bruno Strelow, profissional de educação física, atualmente atuando como personal trainer e visando mudar para a carreira de tecnologia.
 
 ## Atualmente estudando
 
-- Plataforma de estudo Staart, focado no back end
+- Aluno da plataforma de estudo Staart
+- Focando no desenvolvimento back end
 - Javascript e Typescript
 
 ## Meus contatos
