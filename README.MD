@@ -1,12 +1,12 @@
 # Bem vindo(a) ao meu perfil!
 
-Olá, sou Bruno Strelow, profissional de educação física, atualmente atuando como personal trainer e visando mudar para a carreira de tecnologia.
+Olá, sou Bruno Strelow, profissional de educação física, atualmente atuando como personal trainer, porém visando mudar para a carreira de tecnologia.
 
 ## Atualmente estudando
 
 - Aluno da plataforma de estudo Staart
-- Focando no desenvolvimento back end
-- Javascript e Typescript
+- Focado no aprendizado do desenvolvimento back end
+- Javascript
 
 ## Meus contatos
 - Twitter @BrunoStrelow
