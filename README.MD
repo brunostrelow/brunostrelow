@@ -4,7 +4,7 @@ Olá, sou Bruno Strelow, profissional de educação física, atualmente atuando 
 
 ## Atualmente estudando
 
-- Aluno da plataforma de estudo Staart
+- Aluno Alura
 - Focado no aprendizado do desenvolvimento back end
 - Javascript
 
